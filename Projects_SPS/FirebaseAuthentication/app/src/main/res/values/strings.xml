@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email_">Email</string>
+    <string name="password_">Password</string>
+    <string name="register_">Register</string>
+    <string name="welcome_to_the_app_user">Welcome to the app, User!</string>
+    <string name="name__">Name</string>
+    <string name="email__">Email</string>
+    <string name="password__">Password</string>
+    <string name="register__">Register</string>
+    <string name="email___">Email</string>
+    <string name="password___">Password</string>
+    <string name="login___">Login</string>
+    <string name="register___">Register</string>
+    <string name="welcome_to_the_app_user_">Welcome to the app, User!</string>
+</resources>

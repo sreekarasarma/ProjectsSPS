@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">implicitintents</string>
+    <string name="call_driver">Call Driver</string>
+    <string name="dial_driver">Dial Driver</string>
+    <string name="browse_driver">Browse Driver</string>
+    <string name="call_a_driver">Call Driver</string>
+    <string name="dial_a_driver">Dial Driver</string>
+    <string name="browse_a_driver">Browse Driver</string>
+</resources>

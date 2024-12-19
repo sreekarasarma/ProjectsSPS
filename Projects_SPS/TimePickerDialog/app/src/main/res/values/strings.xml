@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimePickerDialog</string>
+    <string name="select_time">Select Time</string>
+    <string name="select_date">Select Date</string>
+    <string name="selected_time_and_date">Selected Time and Date</string>
+    <string name="select_time_">Select Time</string>
+    <string name="select_date_">Select Date</string>
+    <string name="selected_time_and_date_">Selected Time and Date</string>
+</resources>

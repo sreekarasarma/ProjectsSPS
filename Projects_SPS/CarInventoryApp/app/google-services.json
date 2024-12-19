@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288925672119",
+    "project_id": "carinventoryapp-ff389",
+    "storage_bucket": "carinventoryapp-ff389.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288925672119:android:16dcbc7bc7518c3bb9a332",
+        "android_client_info": {
+          "package_name": "com.example.carinventoryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2Lbf3wRU0WRHDsN58prmN4ETjWI8rMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

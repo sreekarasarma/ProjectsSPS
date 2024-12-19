@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JourneyDetailsApp</string>
+    <string name="submit">Submit</string>
+    <string name="select_time">Select Time</string>
+    <string name="select_date">Select Date</string>
+    <string name="enter_destination">Enter Destination</string>
+    <string name="enter_source">Enter Source</string>
+    <string name="submit_">Submit</string>
+    <string name="select_time_">Select Time</string>
+    <string name="select_date_">Select Date</string>
+    <string name="enter_destination_">Enter Destination</string>
+    <string name="enter_source_">Enter Source</string>
+</resources>

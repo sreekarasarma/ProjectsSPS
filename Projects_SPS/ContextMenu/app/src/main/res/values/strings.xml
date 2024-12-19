@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="change_text">Change Text</string>
+    <string name="change_background_color">Change Background Color</string>
+    <string name="reset">Reset</string>
+    <string name="context_menu">Context Menu</string>
+    <string name="change_text_to_bold">Change Text to Bold</string>
+    <string name="change_button_background_color">Change Button Background Color</string>
+    <string name="change_page_background_image">Change Page Background Image</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp">
+
+
+
+    <EditText
+        android:id="@+id/nameField"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/user_full_name"
+        android:padding="16dp"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="39dp" />
+
+    <EditText
+        android:id="@+id/emailField"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/nameField"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/email_id"
+        android:inputType="textEmailAddress"
+        android:padding="16dp"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="111dp" />
+
+    <EditText
+        android:id="@+id/passwordField"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/emailField"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/user_paassword"
+        android:inputType="textPassword"
+        android:padding="16dp"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <Button
+        android:id="@+id/signUpButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/passwordField"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="@string/userss_sign_up"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="277dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

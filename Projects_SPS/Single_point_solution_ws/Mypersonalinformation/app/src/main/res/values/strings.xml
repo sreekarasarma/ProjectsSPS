@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mypersonalinformation</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="submit">Submit</string>
+    <string name="details_will_appear_here">Details will appear here</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_designation">Enter Designation</string>
+    <string name="designation">Designation:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="name">Name:</string>
+    <string name="enter_phn">Enter Phone</string>
+    <string name="enter_gmail">Enter Email</string>
+    <string name="enter_desgnation">Enter Designation</string>
+    <string name="submitt">Submit</string>
+    <string name="enter_namee">Enter Name</string>
+</resources>

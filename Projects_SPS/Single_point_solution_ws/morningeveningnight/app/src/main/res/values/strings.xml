@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">morningeveningnight</string>
+    <string name="display_image">Display Image</string>
+    <string name="morning">Morning</string>
+    <string name="display_imagee">Display Image</string>
+    <string name="morningg">Morning</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+    <string name="eveningg">Evening</string>
+    <string name="nightt">Night</string>
+    <string name="mornin">Morning</string>
+    <string name="nighttt">Night</string>
+    <string name="click_to_display_night_details">Click to display night details</string>
+    <string name="eveninggg">Evening</string>
+    <string name="click_to_display_evening_details">Click to display evening details</string>
+    <string name="click_to_display_morning_details">Click to display morning details</string>
+    <string name="morninggg">Morning</string>
+    <string name="display_imageee">Display image</string>
+    <string name="display_messagee">Display message</string>
+    <string name="nightttt">Night</string>
+    <string name="eveningggg">Evening</string>
+    <string name="morninggggg">Morning</string>
+</resources>

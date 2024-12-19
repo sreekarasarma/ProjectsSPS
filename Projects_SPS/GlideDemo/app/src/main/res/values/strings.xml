@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GlideDemo</string>
+    <string name="image_loaded_with_glide">Image loaded with Glide</string>
+</resources>

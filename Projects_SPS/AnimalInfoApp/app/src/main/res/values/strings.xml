@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AnimalInfoApp</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="scientific_name">Scientific Name</string>
+    <string name="family">Family</string>
+    <string name="animal_name_">Animal Name</string>
+    <string name="scientific_name_">Scientific Name</string>
+    <string name="family_">Family</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="load">Load</string>
+    <string name="animal_info_app">Animal Info App</string>
+    <string name="animal_name__">Animal Name</string>
+    <string name="scientific_name__">Scientific Name</string>
+    <string name="family__">Family</string>
+    <string name="save_">Save</string>
+    <string name="load__">Load</string>
+    <string name="update__">Update</string>
+    <string name="delete__">Delete</string>
+</resources>

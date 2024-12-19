@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29213326793",
+    "project_id": "weekendassignment-daf01",
+    "storage_bucket": "weekendassignment-daf01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29213326793:android:bb648071ba1eb1932d3c18",
+        "android_client_info": {
+          "package_name": "com.example.weekendassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ra2q5rCNuPm_u28AIFvHfUUK2zwIYqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/nameInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints="Enter Name of the Product"
+        android:hint="@string/enter_product_name"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/typeInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:autofillHints="Enter the type"
+        android:hint="@string/enter_product_type"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/costInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:autofillHints="Enter the cost"
+        android:hint="@string/enter_product_cost"
+        android:inputType="number"
+        android:minHeight="48dp" />
+
+    <ImageButton
+        android:id="@+id/selectImageButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@null"
+        android:contentDescription="Select Image"
+        android:src="@drawable/ic_add_photo"
+        tools:ignore="HardcodedText,TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/add_product" />
+</LinearLayout>

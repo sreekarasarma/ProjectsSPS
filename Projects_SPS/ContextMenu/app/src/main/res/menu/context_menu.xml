@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option_text"
+        android:title="@string/change_text_to_bold"
+        android:icon="@drawable/ic_text" />
+    <item
+        android:id="@+id/option_color"
+        android:title="@string/change_button_background_color"
+        android:icon="@drawable/ic_color" />
+    <item
+        android:id="@+id/option_background"
+        android:title="@string/change_page_background_image"
+        android:icon="@drawable/ic_background" />
+</menu>

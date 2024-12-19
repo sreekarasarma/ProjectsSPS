@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FriendProfiles</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="karthik">Karthik</string>
+    <string name="anirudh">Anirudh</string>
+    <string name="shashank">Shashank</string>
+    <string name="aadilakshmi">Aadilakshmi</string>
+    <string name="profile_image_">Profile Image</string>
+    <string name="alekya">Alekya</string>
+    <string name="profile_image__">Profile Image</string>
+    <string name="profile_image___">Profile Image</string>
+    <string name="profile_image_____">Profile Image</string>
+</resources>

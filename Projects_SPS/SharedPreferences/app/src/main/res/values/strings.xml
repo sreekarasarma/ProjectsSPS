@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save_">Save</string>
+    <string name="load_">Load</string>
+    <string name="enter_password_">Enter Password</string>
+    <string name="enter_name_">Enter Name</string>
+</resources>

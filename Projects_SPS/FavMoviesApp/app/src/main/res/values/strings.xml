@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FavMoviesApp</string>
+    <string name="my_fav_movies">My Fav Movies</string>
+    <string name="view_my_fav_movies">View My Fav Movies</string>
+</resources>

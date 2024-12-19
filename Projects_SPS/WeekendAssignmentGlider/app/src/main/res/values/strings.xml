@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WeekendAssignmentGlider</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_type">Product Type</string>
+    <string name="product_cost">Product Cost</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="add_product">Add Product</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="email_">Email</string>
+    <string name="password_">Password</string>
+    <string name="sign_up_">Sign Up</string>
+    <string name="login_">Login</string>
+    <string name="email__">Email</string>
+    <string name="register_">Register</string>
+    <string name="confirm_password_">Confirm Password</string>
+    <string name="password__">Password</string>
+    <string name="name_">Name</string>
+    <string name="upload_image_">Upload Image</string>
+    <string name="product_name_">Product Name</string>
+    <string name="product_type_">Product Type</string>
+    <string name="product_cost_">Product Cost</string>
+    <string name="add_product_">Add Product</string>
+</resources>

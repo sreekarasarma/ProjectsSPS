@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SqlLiteDatabase</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="update_">Update</string>
+    <string name="delete_">Delete</string>
+    <string name="load_">Load</string>
+    <string name="save_">Save</string>
+    <string name="phone_">Phone</string>
+    <string name="email_">Email</string>
+    <string name="name_">Name</string>
+    <string name="save_employee">Save Employee</string>
+    <string name="view_employees">View Employees</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="phone__">Phone</string>
+    <string name="email__">Email</string>
+    <string name="name__">Name</string>
+</resources>

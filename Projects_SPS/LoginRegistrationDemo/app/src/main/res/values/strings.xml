@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginRegistrationDemo</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="welcome_user_">Welcome!</string>
+    <string name="home">Home</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="register__">Register</string>
+    <string name="home__">Home</string>
+    <string name="password__">Password</string>
+    <string name="email__">Email</string>
+    <string name="username__">Username</string>
+    <string name="full_name__">Full Name</string>
+</resources>

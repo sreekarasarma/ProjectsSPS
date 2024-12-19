@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157038713544",
+    "project_id": "fir-saveloadapp",
+    "storage_bucket": "fir-saveloadapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157038713544:android:95089c2b52ab47a7e023fd",
+        "android_client_info": {
+          "package_name": "com.example.firebasesaveloadapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Urq4oLJ9HmSkUb6BiIXxaml5CQpaBgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

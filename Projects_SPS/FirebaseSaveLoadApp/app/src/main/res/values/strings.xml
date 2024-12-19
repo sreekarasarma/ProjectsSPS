@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirebaseSaveLoadApp</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="name_">Name</string>
+    <string name="number_">Number</string>
+    <string name="email_">Email</string>
+    <string name="password__">Password</string>
+    <string name="save__">Save</string>
+    <string name="load__">Load</string>
+    <string name="name__">Name</string>
+    <string name="number__">Number</string>
+    <string name="email__">Email</string>
+    <string name="password___">Password</string>
+    <string name="save___">Save</string>
+    <string name="load___">Load</string>
+</resources>
